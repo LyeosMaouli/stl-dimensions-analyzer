@@ -211,7 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 🐛 Report bugs: [GitHub Issues](https://github.com/LyeosMaouli/stl-dimensions-analyzer/issues)
-- 💡 Feature requests: [GitHub Discussions](https://github.com/LyeosMaouli/stl-dimensions-analyzer/discussions)
 
 ---
 
